@@ -3,7 +3,7 @@ layout: post
 title: "Yangnuri-episodes 2015.1.2"
 author: "Yangnuri"
 date: 2015.1.2
-duration: "13:30"
+duration: "01:40"
 type: "video/mp4"
 enclosure_url: https://archive.org/download/yangnuri91/RE%20%EC%8B%A0%EC%95%99%EC%83%9D%ED%99%9C-%EB%98%90%20%EB%8B%A4%EB%A5%B8%20%EB%B3%B4%ED%98%9C%EC%82%AC%20%EC%84%B1%EB%A0%B9%EB%8B%98%28%EC%9A%94.mp4
 enclosure_bytes_size: 54508991
