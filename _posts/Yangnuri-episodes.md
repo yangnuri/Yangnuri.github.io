@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Yangnuri-episodes 2015.1.1"
+title: "Yangnuri-episodes 2015.1.2"
 author: "Yangnuri"
 date: 2015.1.1
 duration: "13:30"
 type: "video/mp4"
-enclosure_url: https://ia902707.us.archive.org/31/items/a01041315591_gmail/%EA%B9%A8%EB%81%97%ED%95%9C%20%EA%B0%80%EC%A7%80%28%EC%B9%A8%EB%A1%80%EC%8B%A0%ED%95%99%EB%8C%80%ED%95%99%EC%9B%90%29.mp4
+enclosure_url: https://archive.org/download/yangnuri91/RE%20%EC%8B%A0%EC%95%99%EC%83%9D%ED%99%9C-%EB%98%90%20%EB%8B%A4%EB%A5%B8%20%EB%B3%B4%ED%98%9C%EC%82%AC%20%EC%84%B1%EB%A0%B9%EB%8B%98%28%EC%9A%94.mp4
 enclosure_bytes_size: 54508991
 link:
   youtube: http://www.youtube.com/channel/UCcx23KhkV_-P7ZygYCq8wFw
