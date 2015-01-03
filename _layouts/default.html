@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <meta name="description" content="{{ site.description }}">
+    <meta name="author" content="rorlab">
+
+    <title>{{ page.title }}</title>
+
+    <link href="/css/bootstrap.min.css" rel="stylesheet" media="screen">
+    <link href="/css/styles.css" rel="stylesheet" media="screen">
+
+    <link rel="shortcut icon" href="/images/favicon.ico" type="image/vnd.microsoft.icon">
+
+    <link rel="alternate" type="application/rss+xml" title="{{ site.description }}" href="{{ site.podcast.feed_url }}">
+  </head>
+  <body>
+    <div class="container">
+      <div class="header">
+        <ul class="nav nav-pills pull-right">
+          <li><a href="{{ site.podcast.feed_url }}">Podcast URL</a></li>
+          <li><a href="{{ site.rorlab_url }}">RORLab</a></li>
+          <li><a href="{{ site.sns.twitter }}">Twitter</a></li>
+          <li><a href="{{ site.sns.facebook }}">Facebook</a></li>
+        </ul>
+        
+        <h3 class="text-muted">
+          <img class="img-circle" src="/images/rorlab_logo.png" width="30px" height="30px">
+          {{ site.name }}
+        </h3>
+      </div>
+      <div class="content">
+        {{ content }}
+      </div>
+      <div class="footer">
+        <p>&copy; <a href="{{ site.url }}">RORLab</a> 2013</p>
+      </div>
+    </div>
+    <script src="/js/bootstrap.min.js"></script>
+  </body>
+</html>
