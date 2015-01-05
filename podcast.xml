@@ -39,5 +39,4 @@ layout: nil
       <itunes:keywords><![CDATA[{{ site.podcast.keyword }}]]></itunes:keywords>
     </item>
     {% endfor %}
-  </channel>
-</rss>
+  </rss>
